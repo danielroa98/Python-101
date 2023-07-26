@@ -1,0 +1,3 @@
+# Ignoring local files.
+.DS_Store
+Demos/*
